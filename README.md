@@ -8,4 +8,4 @@ New Text added
 
 Recently added diff line
 
-Random diff test 2, on a branch
+This is bound to cause trouble
