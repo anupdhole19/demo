@@ -5,3 +5,7 @@ Random diff test 1
 
 New Text added
 
+
+Recently added diff line
+
+This is bound to cause trouble
